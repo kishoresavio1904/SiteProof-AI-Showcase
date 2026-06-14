@@ -64,29 +64,26 @@ The first workflow being prototyped is:
 
 ## Screenshots
 
-### Mobile Home
+### Role Selection
+![Role Selection](screenshots/01-role-selection.jpeg)
 
-![Mobile Home](screenshots/mobile-home.png)
+### HSE Manager Home
+![HSE Manager Home](screenshots/02-hse-manager-home.jpeg)
 
 ### Contractor Gate
+![Contractor Gate](screenshots/03-contractor-gate.jpeg)
 
-![Contractor Gate](screenshots/contractor-gate.png)
+### Observations List
+![Observations List](screenshots/04-observations-list.jpeg)
 
 ### Evidence Vault
+![Evidence Vault](screenshots/05-evidence-vault.jpeg)
 
-![Evidence Vault](screenshots/evidence-vault.png)
+### Approval Matrix
+![Approval Matrix](screenshots/06-approval-matrix.jpeg)
 
-### Approval Queue
-
-![Approval Queue](screenshots/approval-queue.png)
-
-### Timeline Drawer
-
-![Timeline Drawer](screenshots/timeline-drawer.png)
-
-### Evidence Trail Report
-
-![Evidence Trail Report](screenshots/evidence-trail-report.png)
+### Admin Home
+![Admin Home](screenshots/07-admin-home.jpeg)
 
 ## AI / GenAI Relevance
 
